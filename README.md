@@ -8,9 +8,7 @@ This repository is connected to the visual design workflow through Figma. All UI
 
 ### Primary Figma file
 
-Replace this placeholder with your actual project URL:
-
-- https://www.figma.com/design/REPLACE_WITH_YOUR_FILE_ID
+- https://www.figma.com/make/go0fb6M6rjojjr5Liezb6V/CampusKart-Web-App-Design?code-node-id=0-6&p=f&t=WDGZH6vklKzWoT4V-0&fullscreen=1
 
 ### Design references
 
